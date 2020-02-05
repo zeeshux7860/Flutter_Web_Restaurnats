@@ -1,0 +1,29 @@
+[
+    {
+      "family": "MaterialIcons",
+      "fonts": [
+        {
+          "asset": "materialico.woff2"
+        }
+      ]
+    },
+    {
+      "family": "GoogleSans",
+      "fonts": [
+        {
+          "asset": "GoogleSans-Regular.ttf"
+        }
+      ]
+    },
+   
+   
+    {
+      "family": "LibreFranklin",
+      "fonts": [
+        {
+          "asset": "LibreFranklin-Regular.ttf"
+        }
+      ]
+    }
+    
+  ]
