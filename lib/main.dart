@@ -36,11 +36,11 @@ class _MyAppState extends State<MyApp> {
   void firebases() {
     try {
     fb.initializeApp(
-          apiKey: "AIzaSyBgVz7nodLbdkARksykEhotzoLS3vnP8ZM",
-    authDomain: "restaurants-b6421.firebaseapp.com",
-    databaseURL: "https://restaurants-b6421.firebaseio.com",
-    projectId: "restaurants-b6421",
-    storageBucket: "restaurants-b6421.appspot.com",
+          apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
 
         );
 
